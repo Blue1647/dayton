@@ -1,0 +1,43 @@
+/* Put in your css here */
+p{
+  color:blue;
+  
+}
+h1{
+  color:orange;
+  font-family:georgia;
+  font-size:55px;
+}
+h2{
+  color:aqua;
+}
+body{
+  background:blue;
+  
+
+  font-family:times new roman;
+}
+li{
+  display:inline;
+  padding:20px 20px 20px 20px;
+  
+}
+ul{
+  background:rgba(0,0,0,.4);
+}
+header{
+  text-align:center;
+
+  color:white;
+}
+a{ color:beige;
+}
+a:hover{
+  color:maroon;
+  background:lavender;
+}
+body{
+  text-align:center;
+    background:url("http://www.sportsonearth.com/assets/images/8/2/0/104248820/cuts/1980x1100_100bestfootballplayers_nofade_p4zowp5n_3vil8ptz.jpg");
+  background-size:800px;
+}
